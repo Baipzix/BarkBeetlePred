@@ -14,7 +14,7 @@ The data used for training and testing are observations from the Bavarian Nation
 
 ### Files:
 
-* dataclean.py: Data clean and prepare data for the next steps
+* DataPre.py: Python version of prepare data for the next steps
 * bb_model_Experiment1.py: Deep Neural Network used for Experiment 1
 * bb_model_Experiment1_keras.py: The DNN for Experiment 1, but using Keras instead of TFLearn
 * bb_model_Experiment2.py: Deep Neural Network used for Experiment 2
