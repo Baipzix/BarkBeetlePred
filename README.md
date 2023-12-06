@@ -23,7 +23,6 @@ The data used for training and testing are observations from the Bavarian Nation
 
 ### Steps to set up and run the model:
 
-* install Tensorflow (tested with 0.12 and 1.0): https://www.tensorflow.org/install
+* install Tensorflow 2: https://www.tensorflow.org/install
 * install TFLearn (0.3): http://tflearn.org
 * download the training data from DRYAD: http://datadryad.org/resource/doi:10.5061/dryad.c5g9s
-* run this script and modify the paths if required (Assumptions: training data is stored in the working directory, TensorFlow logdirectory in /tmp/)
