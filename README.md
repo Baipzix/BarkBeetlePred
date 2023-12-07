@@ -1,6 +1,6 @@
 BarkBeetlePred
 =========
-This model is modified from the model created by Werner Rammer, Rupert Seidl, 2019.
+This model is modified from the model created by Werner Rammer, Rupert Seidl, 2019. 
 
 
 Deep Neural Network for predicting bark beetle disturbance using TensorFlow. The original code and data for the publication:
